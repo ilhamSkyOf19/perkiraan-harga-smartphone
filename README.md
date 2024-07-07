@@ -17,7 +17,7 @@ python -m pip install -r requirements.txt
 
 5. Pindahkan model.pkl yang sudah disiapkan ke direktori perkiraan_harga_smartphone
 
-7. Jalankan app.py dengan perintah
+7. Jalankan app.py dengan perintah:
 
 python app.py
 
